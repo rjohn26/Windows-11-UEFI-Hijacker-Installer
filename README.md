@@ -1,0 +1,43 @@
+Hijacks UEFI/BIOS of x64 compatible computers and uses .ciso to install tiny11.
+
+Now compatible with managed (school) laptops via UEFI-raking.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PLEASE DO NOT ACTUALLY DOWNLOAD THIS THIS IS A JOKE MADE FOR MY FRIEND EVERYTHING ABOVE WAS BULLCRAP
